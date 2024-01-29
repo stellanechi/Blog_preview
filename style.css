@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CONTAINER */
+body{
+    background-color:  hsl(47, 88%, 63%);
+}
+.container{
+
+    
+   
+}
+
+.house{
+    padding: 10px 10px;
+    background-color: hsl(0, 0%, 100%);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.image{
+    border-radius: 10px;
+}
